@@ -1,0 +1,17 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Data (recordings, logs)
+data/
+*.csv
+*.npy
+*.npz
+*.log
+
+# Credentials
+.env
+*.key
+*.pem
+secrets/
